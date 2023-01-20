@@ -87,7 +87,7 @@ packages:
       path: "."
       ref: "406b9b0"
       resolved-ref: "406b9b038b2c1d779f1e7bf609c8c248be247372"
-      url: "https://github.com/Kingtous/rustdesk_screen_retriever.git"
+      url: "https://github.com/atrejo79/remoteame_screen_retriever.git"
     source: git
     version: "0.1.2"
   sky_engine:
